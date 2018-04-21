@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: co.edu.usbcali.banco.jpa.TestCliente
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.925 sec - in co.edu.usbcali.banco.jpa.TestCliente
