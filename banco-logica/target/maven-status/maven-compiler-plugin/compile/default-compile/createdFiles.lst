@@ -1,0 +1,8 @@
+co\edu\usbcali\banco\modelo\Cuenta.class
+co\edu\usbcali\banco\modelo\CuentaRegistrada.class
+co\edu\usbcali\banco\modelo\TipoDocumento.class
+co\edu\usbcali\banco\modelo\TipoUsuario.class
+co\edu\usbcali\banco\modelo\Cliente.class
+co\edu\usbcali\banco\modelo\TipoTransaccion.class
+co\edu\usbcali\banco\modelo\Transaccion.class
+co\edu\usbcali\banco\modelo\Usuario.class
